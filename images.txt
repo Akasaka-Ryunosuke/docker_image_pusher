@@ -2,7 +2,7 @@ mysql:latest
 python:3.8
 node:18
 neo4j:latest
-pytorch:2.1.0-cuda11.8-cudnn8-devel
+pytorch/pytorch:2.1.0-cuda11.8-cudnn8-devel
 nginx
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
